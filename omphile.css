@@ -1,0 +1,18 @@
+html{
+
+    background-image: url(ZAY.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: color-burn;
+ color: black;
+}
+p{
+    border-style: outset;
+     border-width: 5px;
+  border-color: black;
+  border-radius: 10px;
+  padding: 5px;
+}
+
